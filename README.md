@@ -1,5 +1,5 @@
 # ELO-System
-Manages files for the creation and maintainence of a rating system based on [ELO](https://en.wikipedia.org/wiki/Elo_rating_system) to facilitate tracking skill levels in competitions. This progam is designed to handle batches of individual competitor's scores in a competition where everyone is competing against each other.
+Manages files for the creation and maintainence of a rating system based on [ELO](https://en.wikipedia.org/wiki/Elo_rating_system) to facilitate tracking skill levels in competitions. This progam is designed to handle batches of individual competitors' scores in a competition where everyone is competing against each other.
 
 Compile: `javac elocode/*`
 
