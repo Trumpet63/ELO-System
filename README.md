@@ -183,7 +183,7 @@ id,name,score,rating_before,rating_after,rating_change
 11819,player 14,26.7,1000,1032,+31.9
 26935,player 2,16.8,978,976,-2.4
 
-C:\Users\spren\Documents\test>type ratings.csv
+C:\test>type ratings.csv
 id,name,rating,start_date,last_updated
 58873,player 4,1091.2549019607843,2018/11/05 14:04:38,2018/11/05 14:04:38
 11073,player 8,1001.3725490196078,2018/11/05 14:04:38,2018/11/05 14:04:38
