@@ -4,6 +4,9 @@ Manages files for the creation and maintainence of a rating system based on [ELO
 Compile: `javac elocode/*`
 
 Usage: `java elocode/ELOCode dataFile [ratingsFile] [reportFile]`
+
+![Change in ELO scores over time](https://puu.sh/Cz5Pv/2407b526a5.PNG)
+
 ## Files and Formats
 ### Data File
 Three columns separated by commas with rows separated by new lines.
